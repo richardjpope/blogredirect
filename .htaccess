@@ -1,3 +1,11 @@
+Options -MultiViews
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1\.html -f [NC]
+RewriteRule ^(.+?)/?$ $1.html [L]
+
 redirect 301 /feed https://richardpope.org/feed.xml
 redirect 301 /rss https://richardpope.org/feed.xml
 redirect 301 /index.html https://richardpope.org/blog
