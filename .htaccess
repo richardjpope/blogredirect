@@ -15,7 +15,7 @@
   redirect 301 /2014/07/21/input-2/ https://richardpope.org/blog/2014/07/21/input-2/
   redirect 301 /2014/07/24/notes/ https://richardpope.org/blog/2014/07/24/notes/
   redirect 301 /2014/07/27/starting-a-new-project-prototyping-a-recipe/ https://richardpope.org/blog/2014/07/27/starting-a-new-project-prototyping-a-recipe/
-  redirect /2014/08/02/moo-ux-rules-circa-2008/ https://richardpope.org/blog/2014/08/02/moo-ux-rules-circa-2008/
+  redirect 301 /2014/08/02/moo-ux-rules-circa-2008/ https://richardpope.org/blog/2014/08/02/moo-ux-rules-circa-2008/
   redirect 301 /2014/08/25/music-electro/ https://richardpope.org/blog/2014/08/25/music-electro/
   redirect 301 /2014/09/25/infobuildings/ https://richardpope.org/blog/2014/09/25/infobuildings/
   redirect 301 /openstreetmap-as-infrastructure-a-localgov-map/ https://richardpope.org/blog/2014/10/04/openstreetmap-as-infrastructure-a-localgov-map/
@@ -25,7 +25,7 @@
   redirect 301 /2014/12/24/mobile-first-demo-build-design/ https://richardpope.org/blog/2014/12/24/mobile-first-demo-build-design/
   redirect 301 /2015/01/14/qrcodes-useful/ https://richardpope.org/blog/2015/01/14/qrcodes-useful/
   redirect 301 /2015/01/17/the-challenge-for-web-designers-in-2015/ https://richardpope.org/blog/2015/01/17/the-challenge-for-web-designers-in-2015/
-  redirect 301/2015/01/23/democracy-at-the-point-of-use/ https://richardpope.org/blog/2015/01/23/democracy-at-the-point-of-use/
+  redirect 301 /2015/01/23/democracy-at-the-point-of-use/ https://richardpope.org/blog/2015/01/23/democracy-at-the-point-of-use/
   redirect 301 /2015/02/06/when-sign-in-becomes-frictionless/ https://richardpope.org/blog/2015/02/06/when-sign-in-becomes-frictionless/
   redirect 301 /2015/02/09/fosdem-2015-interesting-links/ https://richardpope.org/blog/2015/02/09/fosdem-2015-interesting-links/
   redirect 301 /2015/02/11/habitat-fosdem-2015-talk/ https://richardpope.org/blog/2015/02/11/habitat-fosdem-2015-talk/
